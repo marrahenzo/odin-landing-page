@@ -47,7 +47,7 @@ body {
 }
 
 .intro h1 {
-  font-family: Hero, Verdana, sans-serif;
+  font-family: Roboto, Verdana, sans-serif;
   font-size: 48px;
   font-weight: 900;
   color: #f9faf8;
@@ -87,7 +87,7 @@ body {
 
 .content-main h2 {
   text-align: center;
-  font-family: Hero, Verdana, sans-serif;
+  font-family: Roboto, Verdana, sans-serif;
   font-size: 36px;
   font-weight: 900;
   color: #1f2937;
